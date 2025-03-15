@@ -1,8 +1,3 @@
-# Default ignored files
-/shelf/
-/.idea/workspace.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+version https://git-lfs.github.com/spec/v1
+oid sha256:627c11c552a7343b6f0680f6e46258796b81607a6f0b4f2bde96fadb7588bfac
+size 181
