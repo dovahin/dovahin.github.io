@@ -1,3 +1,4 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
 *.gitignore filter=lfs diff=lfs merge=lfs -text
 *.xml filter=lfs diff=lfs merge=lfs -text
 /.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302 filter=lfs diff=lfs merge=lfs -text
