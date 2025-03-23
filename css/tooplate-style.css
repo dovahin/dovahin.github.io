@@ -39,7 +39,7 @@ https://www.tooplate.com/view/2122-nano-folio
 html {
     overflow-x: hidden;
     background-image: url("../img/background.jpg");
-    background-position: center;
+    background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -338,11 +338,11 @@ address {
 }
 
 .tm-bgcolor-1 {
-    background-color: #F96699;
+    background-color: #B94669;
 }
 
 .tm-bgcolor-2 {
-    background-color: #38CCCC;
+    background-color: #28ACAC;
 }
 
 .tm-bgcolor-3 {
