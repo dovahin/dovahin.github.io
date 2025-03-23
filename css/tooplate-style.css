@@ -38,7 +38,7 @@ https://www.tooplate.com/view/2122-nano-folio
 
 html {
     overflow-x: hidden;
-    background-image: url("img/background.jpg");
+    background-image: url("../img/background.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
